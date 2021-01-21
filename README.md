@@ -1,4 +1,4 @@
-# LA'MESSAGE
+# LOUISIANA MEDICAID MESSAGER
 
 A barebones Ruby on Rails application for sending and tracking SMS messages in Louisiana via Twilio. This was used in the second half of 2019 to support the LA'MESSAGE pilot by the Integrated Benefits initiative. Specifically, this was used to send text messages to Medicaid clients.
 
